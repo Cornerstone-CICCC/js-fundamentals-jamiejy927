@@ -59,4 +59,4 @@ if ((suspect === "Mr. Parkes" && room === "dining room") ||
 
    if (solved) {
     console.log(`${suspect} did it in the ${room} with the ${weapon}!`);
-   };
+   }

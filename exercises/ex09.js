@@ -48,8 +48,7 @@ while (x >= 0) {
   } else if (x === 0) {
     console.log("Solid rocket booster ignition and liftoff!");
   } else {
-    console.log(`T-${x} seconds`)
+    console.log(`T-${x} seconds`);
   }
-
   x--;
 }
